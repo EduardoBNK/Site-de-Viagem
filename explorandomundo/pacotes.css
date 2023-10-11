@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.h1edit{
+    text-align: center;
+    padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pacote1{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.pacote2{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.pacote3{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.pacote4{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.pacote5{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.pacote6{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.pacote7{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.pacote8{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.div1{
+    padding: 50px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.div2{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div3{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.edit1{
+    padding: 0px 10px;
+}
+.edit2{
+    padding: 0px 10px;
+}
+.edit3{
+    padding: 0px 10px;
+}
+.edit4{
+    padding: 0px 10px;
+}
+.edit5{
+    padding: 0px 10px;
+}
+.edit6{
+    padding: 0px 10px;
+}
+.edit7{
+    padding: 0px 10px;
+}
+.edit8{
+    padding: 0px 10px;
+}

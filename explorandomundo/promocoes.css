@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.promocao1{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.promocao2{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.promocao3{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.promocao4{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.promocao5{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.promocao6{
+    width: 380px;
+    height: 480px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.edit1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+}
+.edit2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.final1{
+    padding: 0px 20px;
+}
+.final2{
+    padding: 0px 20px;
+}
+.final3{
+    padding: 0px 20px;
+}
+.final4{
+    padding: 0px 20px;
+}
+.final5{
+    padding: 0px 20px;
+}
+.final6{
+    padding: 0px 20px;
+}
+.h1edit{
+    text-align: center;
+    padding: 50px 0px;
+}
